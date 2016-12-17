@@ -1,0 +1,2 @@
+* <strong>any language is the language of our thoughts</strong><br>
+ we dont invent new syntax constructs unless our way to think changes. vise versa - when we invent new syntax, it allows us to think different. Our language is the road out of the box.

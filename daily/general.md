@@ -24,8 +24,26 @@ my box. The world got bigger. I skated back to the van and started writing prbly
 <br><br>...<br><br>
 Then, i got back on the board.
 
+*  <strong>i feel my whole world went thru a cataclysm wondering uc berkeley campus on that aweful rainy night.</strong><br>
+ it was very hard but everything changed. My mind operates on a higher level of abstraction. I think in terms of composable objects, about anything. 
+ its like dissolving into the never never fractal world of recursion, a quantum existence where miracles happen everywhere and everything morphs between infinite number of forms it can take, all the time.
+ I mean, i can design recursive chaotic processes in my mind almost by instinct. I am able to imitate what nature does with everything it touches.
+ This is the most desired gift I'v ever received and it came from one of open source tribes - my recursion mentors of React.
+ I dont know if i made myself clear but my website project just started accelerating exponentially.
+
+* <strong tags='dailyLife nomadLife'>i'm relocating from my adapted home on the bottom of channing street</strong><br>
+ as soon as that rain stops, to some hilly locale in north berkeley so i can do laps on that wet butter frozen to ice by the rain while working on my website and watching it taking life of its own. An act of creation mixed with on demand exaltation
+
+*  <strong tags='development composable learning-composable'>its an interesting process</strong><br>
+ as i'v opened the gift wrapping and playing with my toy. Say, i'm designing my first profile form. I get an idea to ask for permissions from a manager. Ok, i quickly come up with almost standard implementation and an api to interface with new permission manager that allows to  localize all the permission definitions along with defining a form element for that permission in the permission config form, with default permissions defined alongside locally thru inversion of control using functional programming approaches. Then, i finish my profile form, after a few more of these dreams come true, with permission manager calls in it. All in one breath w/o loosing focus. Then, in leasurly manner, i create an npm package and write PM code the way i designed it. After i get done with profile form, my website is designed and design is battle tested. The rest is not as exciting.
+
+* <strong tags='development composable learning'>api creation patterns, not implementation details feel my head now</strong><br>
+so, now, instead of clogging my mind with details of all those multiple api designs that are intricate each in 
+its way and dont like playing together, i feel the same available space with api creation patterns which reacty way is one of
+. All APIs designed in that pattern will live together happily in another composable structure - a tamed recursion. Forgive me, universe.
 
 
-
-
-
+dec, 17
+* <strong>Working in orinda</strong><br>
+By one of my best rides in wilder ranch. Bueatiful day. I will get a lot done and get some good food and see my parents.
+This is all i need to be happy. So little. So simple.

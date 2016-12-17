@@ -16,6 +16,10 @@ i'm getting faster and more efficient every day. almost mechanical. My brain is 
 menial tasks that were so confusing ... last night and lets me focus on the next layer of the onion above. This is exponential
 scale - each linear step to the surface of the onion doubles or tripples my productivity and quality of the product.
 
+* <strong>Reusing reacty pattern of composability is what makes it work</strong><br>
+I dont have to waste concentration on shifting mind gears into some other pattern. It works, just dont want to be bothered
+with infinite number of other ways.
+
 
 
 
