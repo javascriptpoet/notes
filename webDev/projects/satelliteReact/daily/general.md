@@ -25,8 +25,8 @@ with infinite number of other ways.
 * <strong>i think i'm gonna take all these abstractions less serious</strong><br>
 they just helpers to acheive the main goal which is to build a nice ui for people that trust you to do it. So, i'll start right there, design eactly the look of it and arrange the whole structure to do it the best i know and i do know a few good tricks of the trade now.
 
-* <strong></strong><br>
-the pattern tcomb uses is incredibly useful. He says its based on set theory. I dont know what that means exactly but thru my dreams a workable pattern emerged and guess what ... it is the same as tcomb. i wish i could see it before so much time and effort was expanded but i dont regret anything. The path is never straight.
+* <strong>the pattern tcomb uses is incredibly useful</strong><br>
+He says its based on set theory. I dont know what that means exactly but thru my dreams a workable pattern emerged and guess what ... it is the same as tcomb. i wish i could see it before so much time and effort was expanded but i dont regret anything. The path is never straight.
 basically, tcomb is a pattern within similar pattern of the whole app and alongside with other similar patterns. feels so right.
 
 
