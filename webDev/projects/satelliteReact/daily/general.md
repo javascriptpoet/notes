@@ -20,6 +20,11 @@ scale - each linear step to the surface of the onion doubles or tripples my prod
 I dont have to waste concentration on shifting mind gears into some other pattern. It works, just dont want to be bothered
 with infinite number of other ways.
 
+# 12-17-16
+
+* <strong>i think i'm gonna take all these abstractions less serious</strong><br>
+they just helpers to acheive the main goal which is to build a nice ui for people that trust you to do it. So, i'll start right there, design eactly the look of it and arrange the whole structure to do it the best i know and i do know a few good tricks of the trade now.
+
 
 
 
