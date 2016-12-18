@@ -47,3 +47,6 @@ dec, 17
 * <strong>Working in orinda</strong><br>
 By one of my best rides in wilder ranch. Bueatiful day. I will get a lot done and get some good food and see my parents.
 This is all i need to be happy. So little. So simple.
+
+* <strong>Disturbing morning</strong><br>
+I was woken up last morning/afternoon by something jolting my van. Took a look and theres a car bumping into my side. I get out. Its a young guy crying quietly in public with his head down not even looking at me. The strength of his sorrow drowns me. I want to help knowing it will be futile. hes far gone to even understand. I try to get him out and tell me what happened, anything to keep him from driving, to disrupt his depression. Nothing works. In a few minutes, he slowly drives away. Five other people watched and no one even had an interested look.
