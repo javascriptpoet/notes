@@ -50,3 +50,8 @@ This is all i need to be happy. So little. So simple.
 
 * <strong>Disturbing morning</strong><br>
 I was woken up last morning/afternoon by something jolting my van. Took a look and theres a car bumping into my side. I get out. Its a young guy crying quietly in public with his head down not even looking at me. The strength of his sorrow drowns me. I want to help knowing it will be futile. hes far gone to even understand. I try to get him out and tell me what happened, anything to keep him from driving, to disrupt his depression. Nothing works. In a few minutes, he slowly drives away. Five other people watched and no one even had an interested look.
+
+dec, 22
+* <strong>Nicknames</strong>
+Yersterday morning just when i packed bike trailer and about to headed out to UC Berkeley campus, i see a shadow of a guy with a boombox doing a supply run down the railroad tracks. Hey, bro, want a few fresh baggles? I get'm by laundry bags, have a dozen and i throw a bunch over the fence. Hes happy and he tells me 'They call me Miami'.<br>
+The street folks are all different but most have this in common - they have a nickname. I never mock, i just ask them for their real name. I want to know them, not how they are perceived by some assholes.
