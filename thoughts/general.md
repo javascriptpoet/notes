@@ -5,3 +5,7 @@
  your whole world with you wherever you go in your tiny minivan. we live in the best times while we live in the worst times,
  we live in the world we create for ourselves and for our friends, we live in the world of humans. Thats what makes it 
  so beuatiful.
+ 
+#On size of human brain, extension of english language and the fools that get betrayed<br>
+ what if english had a tagging feature, a simple extension. e.g. 'he{this} who seeks the truth, he who betrays {this} is the fool'
+thats really concise and efficient, except our puni brains are just pea size.
