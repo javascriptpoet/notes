@@ -59,6 +59,7 @@ The street folks are all different but most have this in common - they have a ni
 * <strong>the rest of the day</strong><br>
 This is too cute. This is a style of programming i'v crafted for myself. It generates code looking like this:
  (go)=>(get)=>(what:whatEver)=>doIt(toIt(go)(get)(whatEver))<br>
-On a more serious note, started to run into a few really cool cats hunting the same sacred grounds of uc berkeley.i only seen people skating like that on you tube and each so patient and friendly. Thats my tribe, i feel one of and welcomed and really humbled
+On a more serious note, started to run into a few really cool cats hunting the same sacred grounds of uc berkeley.i only seen people skating like that on you tube and each so patient and friendly. <br>
+I do but i dont have to tell them any of my disaster stories, they know, they done it, they got banged up, road rashed, escorted out by security, harassed by the cops and they listen patiently and node, yeah, bro. Thats my tribe, i feel one of and welcomed and really humbled.
 
 Thats my day
