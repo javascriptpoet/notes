@@ -64,10 +64,10 @@ I do but i dont have to tell them any of my disaster stories, they know, they do
 Thats my day
 
 #Dec,23
-* <strong>Working comfy in the rain in the van thinking of scopes and things<strong/><br>
+* <strong>Working comfy in the rain in the van thinking of scopes and things</strong/><br>
 Implementing my long time dream of scopes with a few terse lines of code.
 
-* <strong>The streets of bay area gourmet cook guide<strong/><br>
+* <strong>The streets of bay area gourmet cook guide</strong/><br>
 cooking well in the middle of a city or nowhere with just a few sticks and some leftover veggies is really not that hard.
 Just dont burn it, use a 6" pipe for a stove, a few sticks or crates around the hood, try to use fresher and better of what you collect and flavor it with herbs, good taste of veggeis themselves or a few packets from a store or condiments.
 Don't overcook veggies, stage the layers of that bear. Takes 20-30mins for rice and beans, so smoke a bowl, take a break, ride a board, talk to some mehico folks and have a delicious, healthy, organic, 100% free, from the heart of good people meal for days ahead. You might need to hit that grocery store, maybe once a year. Just another board/bike ride. Its ok.
