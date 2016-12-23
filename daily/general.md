@@ -61,5 +61,16 @@ This is too cute. This is a style of programming i'v crafted for myself. It gene
  (go)=>(get)=>(what:whatEver)=>doIt(toIt(go)(get)(whatEver))<br>
 On a more serious note, started to run into a few really cool cats hunting the same sacred grounds of uc berkeley.i only seen people skating like that on you tube and each so patient and friendly. <br>
 I do but i dont have to tell them any of my disaster stories, they know, they done it, they got banged up, road rashed, escorted out by security, harassed by the cops and they listen patiently and node, yeah, bro. Thats my tribe, i feel one of and welcomed and really humbled.
-
 Thats my day
+
+#Dec,23
+* <strong>Working comfy in the rain in the van thinking of scopes and things<strong/><br>
+Inplementing my long time dream of scopes with a few terse lines of code.
+
+*<strong>The streets of bay area gourmet cook guide<strong/><br>
+cooking well in the middle of a city or nowhere with just a few sticks and some leftover veggies is really not that hard.
+Just dont burn it, use a 6" pipe for a stove, a few sticks or crates around the hood, try to use fresher and better of what you collect and flavor it with herbs, good taste of veggeis themselves or a few packets from a store or condiments.
+Don't overcook veggies, stage the layers of that bear. Takes 20-30mins for rice and beans, so smoke a bowl, take a break, ride a board, talk to some mehico folks and have a delicious, healthy, organic, 100% free, from the heart of good people meal for days ahead. You might need to hit that grocery store, maybe once a year. Just another board/bike ride. Its ok.
+Oh yeah, dont forget to give half of that to those mehicos. Free shit anyway, have another plate.
+The rain might be an issue, firewood supply gets wet. Stash some for kindling and use plain good old unleaded to get the stove started. OMG. Get over it. Just put it in charcoal starter bottle so the cops dont get called and pour some on the napkin, light the bitch and toss.
+
