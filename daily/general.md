@@ -55,3 +55,10 @@ dec, 22
 * <strong>Nicknames</strong>
 Yersterday morning just when i packed bike trailer and about to headed out to UC Berkeley campus, i see a shadow of a guy with a boombox doing a supply run down the railroad tracks. Hey, bro, want a few fresh baggles? I get'm by laundry bags, have a dozen and i throw a bunch over the fence. Hes happy and he tells me 'They call me Miami'.<br>
 The street folks are all different but most have this in common - they have a nickname. I never mock, i just ask them for their real name. I want to know them, not how they are perceived by some assholes.
+
+* <strong>the rest of the day</strong><br>
+This is too cute. This is a style of programming i'v crafted for myself. It generates code looking like this:
+ (go)=>(get)=>(what:whatEver)=>doIt(toIt(go)(get)(whatEver))<br>
+On a more serious note, started to run into a few really cool cats hunting the same sacred grounds of uc berkeley.i only seen people skating like that on you tube and each so patient and friendly. Thats my tribe, i feel one of and welcomed and really humbled
+
+Thats my day
