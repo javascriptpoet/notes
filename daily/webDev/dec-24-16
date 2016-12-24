@@ -1,0 +1,28 @@
+* 8:42
+Got js scoping done and started implementing thru the project only to discover this is not the scoping i want,
+does not create encapsulation, the syntax not quite right. OK, quickly realized I got a pwoerful tool to customize
+scopig of any part of code base. I can create component scoping and js scoping and compose new ones from old ones. So, component 
+scoping is what i need instead of js. Any reusable component with a dir structure inside gets component scoping - same as js scoping 
+but:
+  * encapsulated
+  no module inside can see past component top scope/dir
+  * scope inheritance is a bit different
+  instead of extending outer to inner scope which creates a flat dict of vars and masks namesake vars, 
+  the parent scope extended to new inner scope with inner scope vars in their own namespace under child's name
+  is added as another namespace creating structure. This is to make destruct statements
+  more declarative.<br>
+  This creates self contained sandboxes that can be thrown from one project to another w/o any tinkering. Anything that is 
+  not visible to modules within their enclosing component will have to be passed to them thru props mechanism from top component 
+  scope down. This is done by wrapping module into another func closure and passing params to it and destructing the props in declarative
+  manner. These packages are not react but similar to react in spirit each encapsulating a functionality of some kind. In short,
+  a react component package will export a react component as default when imported, a sleazyUsedCarDealer component package will yield
+  yield a used car dealer, perhaps with his mother in law as a static method.<br>
+  The next step will be a package that allows composing these dissimilar package components (need a better name) into an application
+  and a gui system that provides a nice way to build it, a drupal of my own.
+  
+*The name is CodeUnits. 
+Each CodeUnit is a class, yeah, a es6 class that instantiates the sorce file modules in a proper dir structure represented by 
+codeUnit object that describes it. Well, no need to create source code and files, just generate functions as strings and store them
+into a mongo collection, maybe, by invoking a CodeUnit#toMongo Then, just go ahead and compose your new website with your good old
+trusty code and bypass a huge part of debugging fun.
+  
