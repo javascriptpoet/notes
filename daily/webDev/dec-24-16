@@ -1,4 +1,4 @@
-* 8:42
+*8:42
 Got js scoping done and started implementing thru the project only to discover this is not the scoping i want,
 does not create encapsulation, the syntax not quite right. OK, quickly realized I got a pwoerful tool to customize
 scopig of any part of code base. I can create component scoping and js scoping and compose new ones from old ones. So, component 
