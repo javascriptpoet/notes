@@ -81,3 +81,8 @@ Bart ride is another mention. I'm loaded with bags of fresh produce straight out
 That brings me to another subject, everyone wishes each other peace on earth and asks why we cant be all friends today. It is obvious to me. Cos we humans are limited in scope. Just like my js scripts, each of us see only whats within limited focus of yet more limited brain. The answer to us uniting into the global community and living in peace like any good human community does is the capability of an average brain. The key is to raise smart kids. Independant and free, not slaves to the transparently abusive monetary system that makes my new friend not even know how to repay my kindness besides that dollar that is truly useless to me. I cant eat it and i cant cook with it and i already have enough for the little gas mars rover needs. What i'd love to have back is his friendship or just a happy smile. I never got that.
 
 * The gourmet dinner i cooked with all that produce blew the socks off me. The best meal i ever ate. Not kidding, seafod and a ton of flavors from all the hurbs i dug up in that dumpster. So good and so healthy. I'm getting better at using that pressure cooker and my tin wood stove. This is high tech making us freier. People just a few hundred years ago would think these a miracle.
+
+#Dec 28,16
+* <strong>I need so little</strong>
+Just a few sticks for dinner, warm sun for my back and my solar panels, friendly neighbours that dont mind marsians and their mars rovers,a little water from a close by stream, a few veggies from the same compassionate neighborly farmers and, most of all, the comfort of mind which is redundant all above provided.
+a 
