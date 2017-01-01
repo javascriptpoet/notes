@@ -88,17 +88,17 @@ Just a few sticks for dinner, warm sun for my back and my solar panels, friendly
 a 
 
 #Jan 01, 17
-*<strong>Cold van on a new year morning</strong><br>
+* <strong>Cold van on a new year morning</strong><br>
 you know, more and more i just want to sit and write stories. Thats what i do coding, basically. I dream up these abstraction, a way to think about a web of connections and dependancies in a way that fits familiar patterns, like a child to parent relationship. So, i'm coming up with a cover storie and i'm getting better and better at it. So, when you figured out how to use a hammer ... you want to write a few stories with it.
 
-*The efficiency of messaging apps<br>
+* The efficiency of messaging apps<br>
 like fb is completely addictive and a big game changer in communications.The method has flows, like any other method, thats why i and suspect a lot more switched from voice to written form. But, on a lonely new year morning when the sun is slow to warm up my van, libraries are closed, been working out of the van for so long w/o hardly a spoken word, yeah, like this one, thats when i wish we did not switch so quick.
  Efficiency is one thing, but direct human contact is another. No point being efficient in separating us. What if we were just as efficient at uniting and knowing about each other. 
 Its the balance. Out of balance is what mad is.
 
-*I'm also coming to realize that most of my troubles with confusion is just a minor technical issue of neglecting my tight schedule of bowl smoking. Like the fire of understanding, neglect it for too long and it starts to die out.
+* I'm also coming to realize that most of my troubles with confusion is just a minor technical issue of neglecting my tight schedule of bowl smoking. Like the fire of understanding, neglect it for too long and it starts to die out.
 
-*the day just got better. Look back thru my old code and see this line, like a smile and wink:
+* the day just got better. Look back thru my old code and see this line, like a smile and wink:
 return compose().treeWalker(hisMonkeys)(monkeyToys)
 
-*I'm writing this cos i really enjoy reading my notes, except for the part where i go endlessly about some new bright abstraction of the past moment. Please, fellah, dont do it to me and anybody else. Very annoying. Or, if you do, be short, clear and engaging, please.
+* I'm writing this cos i really enjoy reading my notes, except for the part where i go endlessly about some new bright abstraction of the past moment. Please, fellah, dont do it to me and anybody else. Very annoying. Or, if you do, be short, clear and engaging, please.
