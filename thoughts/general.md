@@ -24,3 +24,6 @@ That awareness of so many levels up the onion, is what self concience is. Its co
 
 #Mom Nature did a shitty job, we'll take over from here<br>
 our love of violence is our curse. I guess it made us into what we are but we do have the power and understanding to change our culture, to change our nature. we can manage our own evolution from now on, you mom Nature did a shitty job. We'll take over from here.
+
+#Note to myself
+The only subjects i'm interested reading is about what interests me at the moment and its better be short, sweet and not too confusing. So, keep it in mind when you decide to write another note, guy.
