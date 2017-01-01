@@ -38,3 +38,6 @@ the other answer, to the same question of getting anything done, is a ruthlessly
 * <strong>breakthru !!!</strong><br>
 Functional programming seems to work really well. I'v been looking for these static patterns, each intricate and clever but overall very confusing in a bigger picture. just cant keep track of so many disparate levels. our brains run out of steam after only a few indirection. This approach allows me to freehand complicated stuff with one liners. i can easily keep all logic local just in the right place, in components. The best of it, i'm free of static patterns. no matter how flexible i make one a few days later i tear it apart cos my new bright idea just does not fit. now i can keep it all intact and thru these techniques easily work around the limitations. Each project will be a bit different, together they will converge on a better solution. I'll be able to try new ideas w/o any risk of a dead end. Another way to say it, w/o getting any smarter, i can handle one more level of indirection. thats huge, its like outside looking in, from an extra dimension.
 
+#My code started to get a voice
+and it speaks from the pages of files and thru the structure of files in one common language.
+I dont know where its gonna take me but i think i'm going the right direction
