@@ -27,3 +27,7 @@ our love of violence is our curse. I guess it made us into what we are but we do
 
 #Note to myself
 The only subjects i'm interested reading is about what interests me at the moment and its better be short, sweet and not too confusing. So, keep it in mind when you decide to write another note, guy.
+
+#On FB addiction
+I know a lot of people have trouble with this. Heres my view. <br>
+I think the reason, at least by the virtue of my own example, is fb is a window on a mind and thoughts of others a lot more transparent then a tiny peep hole they allow normally. I think it changes everything, like a strong glue that binds disparate and lonely peaces into a solid and worthy object.
