@@ -31,3 +31,8 @@ The only subjects i'm interested reading is about what interests me at the momen
 #On FB addiction
 I know a lot of people have trouble with this. Heres my view. <br>
 I think the reason, at least by the virtue of my own example, is fb is a window on a mind and thoughts of others a lot more transparent then a tiny peep hole they allow normally. I think it changes everything, like a strong glue that binds disparate and lonely peaces into a solid and worthy object.
+
+#On recursion, reality and why i'm not interested in Cant philosophy
+I think those philosophers like Cant that denied physical reality are simply over-complicating the picture. They are fighting recursion and that is a straight shot to madness. Yes, we get the point, reality IS an abstraction but it is there for the good reason that it fits our mental pattern and leave us alone, we dont have as much time as you to ponder the navel lost in your own confusion because you cant figure out how to model recursive processes.
+That statement comes after a long bout of my own fighting the same issue. RecursionWiseness is a skill and, i think, one of the hardest to master, Once you do, a lot of confusing issues just snap into focus.
+The first step on this road is to realize that recursion, fractals and chaos is how everything in universe is built.
