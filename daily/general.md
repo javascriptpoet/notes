@@ -104,4 +104,9 @@ return compose().treeWalker(hisMonkeys)(monkeyToys)
 * I'm writing this cos i really enjoy reading my notes, except for the part where i go endlessly about some new bright abstraction of the past moment. Please, fellah, dont do it to me and anybody else. Very annoying. Or, if you do, be short, clear and engaging, please.
 
 #Jan 3, 17
-* every time another one of those ghosts sets up a tent next to my van i get involved and feed them and befriend them and i do it for many reasons that are very satisfying but it wrecks a havoc on my life every time and very distracting and dangerous as well. Trying to find a ballance between kindness, friendship, compassion and cruelty and blindness to others. It'll get better as i become stronger and have more to give.
+##every time another one of those ghosts sets up a tent next to my van 
+i get involved and feed them and befriend them and i do it for many reasons that are very satisfying but it wrecks a havoc on my life every time and very distracting and dangerous as well. Trying to find a ballance between kindness, friendship, compassion and cruelty and blindness to others. It'll get better as i become stronger and have more to give.
+
+##The freer i get
+The more i realize I aquired more bosses then i ever had before. These are all the homeless and desparate, and all the others struggling to be free. I feel responsability to help them,to do well for them as well as myself.
+
