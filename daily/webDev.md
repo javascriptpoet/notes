@@ -168,3 +168,9 @@ i ended up doing proper implementation thru inheritance so scopes behave EXACTLY
 
 * [10:07 PM] ￼
 we can combine multiple apps in a bigger scope, yeah man, compose them. its a huge tinker toy. the point is we can do it thru a very intuitive common interface and easily borrow functionalities from projects w/o ripping them apart and we can compose them programmatically as react components do or even using  gui at some point but just in  index files for now.
+
+#jan 03, 17
+##i'm starting to understand the roots of my confusion.
+It happens when i abandon strictly local rule.. So, i make a priority in every abstraction implementation to provide ways to stay local as long as possible. When it is no longer possible or gets too complex for that locale, i encapsulate it in yet another abstraction but keep its api simple and local to its parent. I adjust the methods and props so lines of code read like plain english if used properly. The good old Cobol was an attempt to use plain english in statements but they failed cos no one uses it anymore. They neglected flexebility which comes only when the tool itself adheres to the same principals. I'm trying to do better to help myself and hopefully others.
+ 
+Another point, the sudo english i create for each functionality is a language and, as any, intended for its practitioners, which are me and other devs that might use my code. Again, knowing that, i adjust to stay dry and concise in my speech. This is my dialect of js.
