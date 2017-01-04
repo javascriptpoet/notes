@@ -42,8 +42,8 @@ Functional programming seems to work really well. I'v been looking for these sta
 and it speaks from the pages of files and thru the structure of files in one common language.
 I dont know where its gonna take me but i think i'm going the right direction
 
-Jan 04, 17
-#Scoping. its paying off big time. 
+#Jan 04, 17
+##Scoping. its paying off big time. 
 Took a little while to sort it out but result is absolutely amazing. I got the whole structure of the app in a few lines of code in one file and all my troubles are over. Just have to fill in function bodies with code but the flow of functions thru the whole app and between build and run time are all clearly defined in one file. Success!!
 
 and that file reads like a marsian english novel
