@@ -110,3 +110,8 @@ i get involved and feed them and befriend them and i do it for many reasons that
 ##The freer i get
 The more i realize I aquired more bosses then i ever had before. These are all the homeless and desparate, and all the others struggling to be free. I feel responsability to help them,to do well for them as well as myself.
 
+#Jan , 17
+###this attractive well dressed girl shows up and knocks on my window last night in the blistering horizontal rain
+and asks me for a favor to charge her phone while she walks her dog. OK. Comes back half an hour later and starts explaining exactly why and how and everything else about why she does not want to stay with that guy. I invite her for a cup of coffee some sunny morning and she likes it. Says she saw me making one on Christmas and it looked so serene. Damn, i wish i could help her. She has to figure it out mostly by herself and its tough, especially for a girl.
+Then her boyfriend knocks on the window an hour later. She prbly still wonders the streets looking for answers.
+
