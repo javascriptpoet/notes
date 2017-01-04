@@ -112,6 +112,9 @@ The more i realize I aquired more bosses then i ever had before. These are all t
 
 #Jan 04, 17
 ##this attractive well dressed girl shows up and knocks on my window last night in the blistering horizontal rain
-and asks me for a favor to charge her phone while she walks her dog. OK. Comes back half an hour later and starts explaining exactly why and how and everything else about why she does not want to stay with that guy. I invite her for a cup of coffee some sunny morning and she likes it. Says she saw me making one on Christmas and it looked so serene. Damn, i wish i could help her. She has to figure it out mostly by herself and its tough, especially for a girl.
+and asks me for a favor to charge her phone while she walks her dog. OK. Comes back half an hour later and starts explaining exactly why and how and everything else about why she does not want to stay with that guy. I invite her for a cup of coffee some sunny morning and she likes it. Says she saw me making one on Christmas and it looked so serene. Damn, i wish i could help her. She has to figure it out mostly by herself and its tough, especially for a girl.<br>
 Then her boyfriend knocks on the window an hour later. She prbly still wonders the streets looking for answers.
+
+So, to put it in a wider scope, heres a thought. People are just floating about looking for freedom and answers how to become free and they get attracted to anything remotely promissing and the more miserable they are the more curious and braver they get and thats the nobility of the human race, the race of survivors.<brf>
+But before you get proud and high and mighty about it, squarels do the same thing. When they get hungry they overcome the fear and eat right out of your hand.
 
