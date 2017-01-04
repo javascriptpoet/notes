@@ -47,3 +47,6 @@ I dont know where its gonna take me but i think i'm going the right direction
 Took a little while to sort it out but result is absolutely amazing. I got the whole structure of the app in a few lines of code in one file and all my troubles are over. Just have to fill in function bodies with code but the flow of functions thru the whole app and between build and run time are all clearly defined in one file. Success!!
 
 and that file reads like a marsian english novel
+
+## that time boundary is what was creating all the confusion. 
+I can crank thru the scope structure at run time but when anoother dimension of time is added i give up and go skating or prbly should more then i do. This framework gives me clear containers to place my funcs in distinct time scopes within structure scope. Basically, its a two dimensional scoping scheme. Say it again ...
