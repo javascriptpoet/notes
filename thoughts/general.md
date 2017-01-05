@@ -36,3 +36,8 @@ I think the reason, at least by the virtue of my own example, is fb is a window 
 I think those philosophers like Cant that denied physical reality are simply over-complicating the picture. They are fighting recursion and that is a straight shot to madness. Yes, we get the point, reality IS an abstraction but it is there for the good reason that it fits our mental pattern and leave us alone, we dont have as much time as you to ponder the navel lost in your own confusion because you cant figure out how to model recursive processes.
 That statement comes after a long bout of my own fighting the same issue. RecursionWiseness is a skill and, i think, one of the hardest to master, Once you do, a lot of confusing issues just snap into focus.
 The first step on this road is to realize that recursion, fractals and chaos is how everything in universe is built.
+
+#My view on written word
+It should be clear. Nothing new, but, it helps to be dry, using words very sparingly. The more of them, the more the chance of miscommunication by word meaning combinations. Only so many words for so many things by the necessity of our pea size brains.
+However, after the message is dried up and shrunk to a dead, unemotional, cold function it is time to spice it up with some silly rhyme, not worth a dime, give it a color, for humans to bother.
+OK, back to code.
