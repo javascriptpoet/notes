@@ -39,7 +39,10 @@ The first step on this road is to realize that recursion, fractals and chaos is 
 
 #My view on written word
 It should be clear. Nothing new, but, it helps to be dry, using words very sparingly. The more of them, the more the chance of miscommunication by word meaning combinations. Only so many words for so many things by the necessity of our pea size brains.
+
 However, after the message is dried up and shrunk to a dead, unemotional, cold function it is time to spice it up with some silly rhyme, not worth a dime, give it a color, for humans to bother.
+
+this is how i write code. The comments are the cold functions and the code is all the silly rhyme. Sometimes, other times reversed, but this is what it does the most - tells its own story in rhyme of dry. Thats my javascript dialect of martian elegance.
 OK, back to code.
 
-<img src='https://www.facebook.com/Grandmasgroovy/photos/a.859366020800471.1073741828.858956547508085/1307811865955882/?type=3'/>
+
