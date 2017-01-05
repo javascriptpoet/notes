@@ -50,3 +50,6 @@ and that file reads like a marsian english novel
 
 ## that time boundary is what was creating all the confusion. 
 I can crank thru the scope structure at run time but when anoother dimension of time is added i give up and go skating or prbly should more then i do. This framework gives me clear containers to place my funcs in distinct time scopes within structure scope. Basically, its a two dimensional scoping scheme. Say it again ...
+
+## functional programming makes writing complicated code almost mechanical.
+I can write it in a linear fashion or rather fashion of my use case sketch, delaying implementation of pesty functions till later, finetuning syntax and functionality as i develop it. Changes are easy, just add a prop to parameters and add another drop down to the one liner below, split implementation of that dropdown into more one liner files named in simple english.  works, the only thing that works for me.
