@@ -42,4 +42,4 @@ It should be clear. Nothing new, but, it helps to be dry, using words very spari
 However, after the message is dried up and shrunk to a dead, unemotional, cold function it is time to spice it up with some silly rhyme, not worth a dime, give it a color, for humans to bother.
 OK, back to code.
 
-<img source='https://www.facebook.com/Grandmasgroovy/photos/a.859366020800471.1073741828.858956547508085/1307811865955882/?type=3'/>
+<img src='https://www.facebook.com/Grandmasgroovy/photos/a.859366020800471.1073741828.858956547508085/1307811865955882/?type=3'/>
