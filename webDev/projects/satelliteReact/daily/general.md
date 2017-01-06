@@ -53,3 +53,12 @@ I can crank thru the scope structure at run time but when anoother dimension of 
 
 ## functional programming makes writing complicated code almost mechanical.
 I can write it in a linear fashion or rather fashion of my use case sketch, delaying implementation of pesty functions till later, finetuning syntax and functionality as i develop it. Changes are easy, just add a prop to parameters and add another drop down to the one liner below, split implementation of that dropdown into more one liner files named in simple english.  works, the only thing that works for me.
+
+#jan 06, 17
+##what i did is drained the swamp of confusion by solving the issue of bootstrapping
+which is the issue of creating a recursive process which repeats itself and naggs the shit out of me cos every time i try a different approach and it extends another recursive process and they just dont play nice inside the sandbox in my head. So, i fixed up that sandbox in my head to be so nice and comfy that i tend to make every recursive process to fit that sandbox and all the other kids that play in it. I'm raisiing all these kids as a part of the same martian russian anarchist culture that is about to take over the world in a one line code.
+
+##that was about my scoping scheme. 
+i just realized why i was so driven to develop it at the expense of the rest of the project. but not really, its paying off huge. i ended up rebuilding my universe, myself, the way i code. And i'm aboutto  unleash that new self on the unsuspecting project. It stands not a chance, against one liner lance. 
+
+i speak recursor, a funky dialect of es6 js.
