@@ -118,3 +118,10 @@ Then her boyfriend knocks on the window an hour later. She prbly still wonders t
 So, to put it in a wider scope, heres a thought. People are just floating about looking for freedom and answers how to become free and they get attracted to anything remotely promissing and the more miserable they are the more curious and braver they get and thats the nobility of the human race, the race of survivors.<brf>
 But before you get proud and high and mighty about it, squarels do the same thing. When they get hungry they overcome the fear and eat right out of your hand.
 
+#Jan 06, 17
+##i found a way to be at home wherever you go. homie is the feeling of familiarity. You can ease the focus, put things on automatic and relax. So, the more you cut the confusion the less stress you will have and the more homie your wholee will be. Well, what really helps to cut the confusion is to create little tight homes of containers for everything especially your thoughts where everything is local within your rich and you know exactly where. Guess Its called being organized but i just tought myself that cos i could not do coding w/o it.
+
+the huge part is to make everything super easy in each home you create.
+##every day, i just sit down and start thinking. 
+Thats it, thats my job. Love it.
+
