@@ -45,4 +45,6 @@ However, after the message is dried up and shrunk to a dead, unemotional, cold f
 this is how i write code. The comments are the cold functions and the code is all the silly rhyme. Sometimes, other times reversed, but this is what it does the most - tells its own story in rhyme of dry. Thats my javascript dialect of martian elegance.
 OK, back to code.
 
+#what is called creativity is the skill to create abstractions in mind. 
+just another abstraction for the term. then, we shape everything else to fit the abstraction untill it is too much work and we give up on the dream Its not a bad idea to back off a lot of times if you want to keep it easy and unconfused. So, do give up on dreams but replace them with a better, wider, more glorious 
 
