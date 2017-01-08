@@ -46,5 +46,5 @@ this is how i write code. The comments are the cold functions and the code is al
 OK, back to code.
 
 #what is called creativity is the skill to create abstractions in mind. 
-just another abstraction for the term. then, we shape everything else to fit the abstraction untill it is too much work and we give up on the dream Its not a bad idea to back off a lot of times if you want to keep it easy and unconfused. So, do give up on dreams but replace them with a better, wider, more glorious 
+just another abstraction for the term. then, we shape everything else to fit the abstraction untill it is too much work and we give up on the dream Its not a bad idea to back off a lot of times if you want to keep it easy and unconfused. So, do give up on dreams but replace them with a better, wider, more glorious pie in the sky.
 
