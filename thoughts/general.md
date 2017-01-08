@@ -47,7 +47,11 @@ OK, back to code.
 
 #how a mind MADE simple expands into the rest of the universe
 what is called creativity is the skill to create abstractions in mind. 
-just another abstraction for the term. then, we shape everything else to fit the abstraction untill it is too much work and we give up on the dream Its not a bad idea to back off a lot of times if you want to keep it easy and unconfused. So, do give up on dreams but replace them with a better, wider, more glorious pie in the sky.
+just another abstraction for the term. then, we shape everything else to fit the simple abstraction untill it is too much work and not simple any more and we give up on the dream.
+
+Its not a bad idea to back off a lot of times if you want to keep it easy and unconfused. So, do give up on dreams but replace them with a better, wider, more glorious pie in the sky that explains why the old dream does not work any more. 
+
+What you should never give up, tho, is the search for simplicity, the understanding thru easy abstractions. With time even that task gets simpler. You come up with dreams quicker. Thats the ultimate skill, thats CREATIVITY. The goal is to trai oneself to be a better dreamer and you do it by dreaming a lot. Thinking, yeah.
 
 This is how a mind MADE simple expands into the rest of the universe. This IS the power of human brain - its ability to dream. Thats why those cold pragmatists are boring and pure technicians are geeks.
 
