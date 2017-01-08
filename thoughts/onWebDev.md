@@ -12,4 +12,6 @@ I know cos it feels similar in how efficient and powerful of a language each is
 i know what it is. I'm using english the same way in poetry and coding, to make things really clear, to tell the truth, however painful it might be to others and myself, it is better to face it right away or be confused for ever.
 
 #We are cursed to live with recursion
-Which is a tough roommate, hard, unforgiving, arrogant, mocking, always right, clicky and playing favorites, hanging out only with the smartest ones and humiliating others. She is life and she is a bitch.
+Which is a tough roommate, hard, unforgiving, arrogant, mocking, always right, clicky and playing favorites, hanging out only with the smartest ones and humiliating others. 
+
+She is life, she is what life is made out of, she is a bitch and the only way to deal with her is to learn her ways and let her take the lead, join her favorites.
