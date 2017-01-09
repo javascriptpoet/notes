@@ -62,3 +62,10 @@ which is the issue of creating a recursive process which repeats itself and nagg
 i just realized why i was so driven to develop it at the expense of the rest of the project. but not really, its paying off huge. i ended up rebuilding my universe, myself, the way i code. And i'm aboutto  unleash that new self on the unsuspecting project. It stands not a chance, against one liner lance. 
 
 i speak recursor, a funky dialect of es6 js.
+
+#Jan 08, 17
+##yes. i found THE exact footprint of my confusion. 
+Bull spot 100%. Its bootstrapping of a recursive process. One or two steps into it and i'm too deep into the rabbit hole. I was doing it all wrong. I was trying to manage the whole tail of recursion thru bootstrap. now i have an extremely simple set of rules and syntax to do it by habit. THAT is the part i was missing. Wow. I just resolved the next would be dive into yet another infinite hole in 2 mins instead of days. There is no other sources of confusion. I'm free of that fucking scourge. DAMN, bro.
+a few weeks ago, i went on that desperate quest to help myself out of a nagging sense of confusion that was buzzing over me like a swarm of hornets over an innocent jar of honey. I thought up of an abstraction that would be a lot of work to implement but was promising with a huge payoff or a huge waste of time. It just payed off. Damn.
+
+I'm afraid to jinx it but the scoping abstraction is the right one. Its taking me exactly to the places i always wanted to and new i could go.
