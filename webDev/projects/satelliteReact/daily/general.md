@@ -69,3 +69,6 @@ Bull spot 100%. Its bootstrapping of a recursive process. One or two steps into 
 a few weeks ago, i went on that desperate quest to help myself out of a nagging sense of confusion that was buzzing over me like a swarm of hornets over an innocent jar of honey. I thought up of an abstraction that would be a lot of work to implement but was promising with a huge payoff or a huge waste of time. It just payed off. Damn.
 
 I'm afraid to jinx it but the scoping abstraction is the right one. Its taking me exactly to the places i always wanted to and new i could go.
+
+##This was not just the last two weeks
+I'v been trying for years. I was struggling with the way js modules are implemented, so different from scoping rules of a node script. It was confusing the hell out of me when i would get confused into breaking a large script into modules. Well, i finally had enough skills to solve that problem and very elegantly. The bootstrapping solution came as the first payback when i started using what i cooked up while i was cooking. I cant blame myself for being confused. Maybe, i'm just not the smartest bulb in the dangeon.
