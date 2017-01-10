@@ -72,3 +72,7 @@ I'm afraid to jinx it but the scoping abstraction is the right one. Its taking m
 
 ##This was not just the last two weeks
 I'v been trying for years. I was struggling with the way js modules are implemented, so different from scoping rules of a node script. It was confusing the hell out of me when i would get confused into breaking a large script into modules. Well, i finally had enough skills to solve that problem and very elegantly. The bootstrapping solution came as the first payback when i started using what i cooked up while i was cooking. I cant blame myself for being confused. Maybe, i'm just not the smartest bulb in the dangeon.
+
+##jan 10, 17
+#I solved the bootstrap problem 
+by organizing the way i think about this class of problems. Life itself is one of that class - we are learning how to live while living. Same rabbit hole, different rabbit. So, i had to solve the mystery of life itself before finishing the project. I hope other problems are easier.
