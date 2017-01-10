@@ -23,4 +23,4 @@ Damn, dude, i'm a chicken warden
 
 #i think the quality of code can be judged by how far off subject the comments stray. 
 What they should stray to is clarity and they should stray there on the bus of abstractions, otherwise, chances are code will be as winded and convoluted as the prolific comments.
-The coder job description reads: creates abstractions all day long. So, if that skill is not used to make comments as clear as the code, forget the package you are considering to use and do another npm/google search.
+The coder job description reads: creates abstractions all day long. So, the comments should be forged of that habit.
