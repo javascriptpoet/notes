@@ -15,3 +15,11 @@ i know what it is. I'm using english the same way in poetry and coding, to make 
 Which is a tough roommate, hard, unforgiving, arrogant, mocking, always right, clicky and playing favorites, hanging out only with the smartest ones and humiliating others. 
 
 She is life, she is what life is made out of, she is a bitch and the only way to deal with her is to learn her ways and let her take the lead, join her favorites.
+
+#the source of confusion is the indirections 
+which are logical loops thru non-local entities/abstractions. They break encapsulation. That simple. So, the trick is to learn keep all the chickens in the coop while they want to run around, visit the neighbours and spend all day gossiping. What you do is lock the coop and pass just the important messages from the neighbours by mail. What comes to the mailbox? FUNCTIONS, defined by the neighbours in the comfort of their own coop for the unwrapping pleasure of your crew. Keeps them from pecking a hole in your head.
+
+Damn, dude, i'm a chicken warden
+
+#i think the quality of code can be judged by how far off subject the comments stray. 
+What they should stray to is clarity and they should stray there on the bus of abstractions, otherwise, chances are code will be as winded and convoluted as the prolific comments.
