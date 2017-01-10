@@ -15,4 +15,5 @@ it but not for ourselves. We have no place in it and will never see the results.
 
 Is that the god we are creating? If you call it god, we are bootstrapping him. I think people that created relegions were confused about bootstrapping as well. Their god is a cop out that would choke any self respecting computer into an infinite loop, not a solution at all. The only way to create god is by bootstrapping like anything else, the way the universe doing it right.
 
-fuck, this is another rabbit hole. i'm out of here.
+fuck, this is another rabbit hole. i'm out of here. Wait ... maybe we are enslaved by evil ailiens to create their universe inside their computer running their script. Def out of here.
+
