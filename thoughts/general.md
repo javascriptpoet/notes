@@ -55,3 +55,9 @@ What you should never give up, tho, is the search for simplicity, the understand
 
 This is how a mind MADE simple expands into the rest of the universe. This IS the power of human brain - its ability to dream. Thats why those cold pragmatists are boring and pure technicians are geeks.
 
+#The life itself is yet another bootstrap problem. 
+We are figuring out what life is all about while living it, bootstrapping it from a helpless infant to a capable being with the purpose of helping others to bootstrap themselves. 
+This particular bootstrap problem is also known as the mystery of life. 
+Each one of us solves it his own way and takes the fully developed solution with him when he goes away. 
+Again, it seems like the real purpose of life is to help other life to emerge and prosper. Life is celebration of life itself.
+So, now i consider this issue resolved and i can proceed to finish the rest of my web site,hopefully, w/o any other pesty complications.
