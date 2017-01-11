@@ -16,11 +16,18 @@ Which is a tough roommate, hard, unforgiving, arrogant, mocking, always right, c
 
 She is life, she is what life is made out of, she is a bitch and the only way to deal with her is to learn her ways and let her take the lead, join her favorites.
 
-#the source of confusion is the indirections 
+#jan 10, 17
+##the source of confusion is the indirections 
 which are logical loops thru non-local entities/abstractions. They break encapsulation. That simple. So, the trick is to learn keep all the chickens in the coop while they want to run around, visit the neighbours and spend all day gossiping. What you do is lock the coop and pass just the important messages from the neighbours by mail. What comes to the mailbox? FUNCTIONS, defined by the neighbours in the comfort of their own coop for the unwrapping pleasure of your crew. Keeps them from pecking a hole in your head.
 
 Damn, dude, i'm a chicken warden
 
-#i think the quality of code can be judged by how far off subject the comments stray. 
+##i think the quality of code can be judged by how far off subject the comments stray. 
 What they should stray to is clarity and they should stray there on the bus of abstractions, otherwise, chances are code will be as winded and convoluted as the prolific comments.
 The coder job description reads: creates abstractions all day long. So, the comments should be forged of that habit.
+
+##Its becoming clear - the purpose of func programming is to turn everything into a function
+Yes, of course, however, the purpose of this note is to qualify it with the purpose of making everything a ONE LINER function. If its not, you are breaking encapsulation somewhere and this is how you spot the offence.
+
+
+
