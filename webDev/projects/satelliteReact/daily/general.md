@@ -73,6 +73,15 @@ I'm afraid to jinx it but the scoping abstraction is the right one. Its taking m
 ##This was not just the last two weeks
 I'v been trying for years. I was struggling with the way js modules are implemented, so different from scoping rules of a node script. It was confusing the hell out of me when i would get confused into breaking a large script into modules. Well, i finally had enough skills to solve that problem and very elegantly. The bootstrapping solution came as the first payback when i started using what i cooked up while i was cooking. I cant blame myself for being confused. Maybe, i'm just not the smartest bulb in the dangeon.
 
-##jan 10, 17
-#I solved the bootstrap problem 
+#jan 10, 17
+##I solved the bootstrap problem 
 by organizing the way i think about this class of problems. Life itself is one of that class - we are learning how to live while living. Same rabbit hole, different rabbit. So, i had to solve the mystery of life itself before finishing the project. I hope other problems are easier.
+
+# Jan 22, 17
+* heres the new rule<br>
+if it airnt a one liner, start composing funcs thru time scopes till you end up with a one liner. Really straightlines all the logic.The wisdom and efficiency of functional approach blows me away. Organizes my thoughts cos it straightens out the time scopes into a nice seqeintial pattern easy to reason about and you start writing code in one continuous line ofunbroken thought breaking it up into module funcs once in a while. That is what my framework is about - making that breakup just as easy as breaking a line in a script. i'm writing THE WHOLE app in a one liner thru all the modules and all the file folders.AMAZING.
+
+* Also,it makes everything super declarative. the index file in each folder reads like a book on that module, all the props, their types and defaults and the flow of props thru the module funcs. None of the files need to be cluttered. Their names  are tagged with tokens that define whats inside and how they are related to everything else visible at a glance. I'm beginning to treat the whole thing as a flow information/props channeled thru the nodes of my funcs organized in time and space scopes. Thats all they do if you look at each one - grab a bunch of props, rearrange them maybe with the help of another local func and feed them to another func. Exactly what the brain does. I would love to make a gui for that vision using visualization tools like interactive graphs of visjs. Perhaps others will help. Later, after project is on its good way. ￼
+* I see a wisywig gui tool that would go a long way in building web intellegence allowing to visualize the connections and to manipulate them into patterns with a bunch of js oneliners.
+
+* i'm giving her a brain, her name is JS Dame
