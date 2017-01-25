@@ -85,3 +85,10 @@ if it airnt a one liner, start composing funcs thru time scopes till you end up 
 * I see a wisywig gui tool that would go a long way in building web intellegence allowing to visualize the connections and to manipulate them into patterns with a bunch of js oneliners.
 
 * i'm giving her a brain, her name is JS Dame
+
+# Jan 25, 17
+B-day. Lots of good things. I managed to bootstrap the bootstrap app using _.compose and some common sense in the entry file.
+Feels really bizzare to use the tool i'm building while building it. Well, the top scope is simplified for double entry in each file so i can create top scope with all locals imported thru their binders. All scopes below are full monty. Awesome.
+Other development, i developed time/space abstraction that allows me to tick the whole app thru stages of bootstrap like
+a proper js god. simplifies the backflow of permissions and reducers and menues and all kinds of composables that now can 
+be built in stages. Better then that, each module has its own clock driven by their dad - a grandfarther's clock? Each can be bootstrapped separately thru their own time slices. That is REALLY awesome. A timespace landscape - a true universe of bits and bytes, forget empire.
