@@ -131,3 +131,17 @@ Thats it, thats my job. Love it.
 I feel like a true js god on my b-day. I'm ticking my app by my universal grandfarther clock - the ultimate bootstrapping tool. No more confusion by bootstrap issues. The reason it is so confusing cos the time dimension is missing in normal approach, hard to keep track what was created up to any particular point. One can only use whats there. So, if time is there, you just grab the thang you just made up in the previous time slice - a different namespace for each time slice. Thats exactly how reality works. My apps have only a few ticks so no gravity and all that shit but i'm sure it will emerge if i start running that clock and start changing the app structure with each tick, evolving it like universe continuously evolves. Its the difference in local clocks that will create effect of gravity. I have it now - each component has its own clock. Still gets driven from above but slices the ticks any way it wants. Gravity will happen when that arbitrary difference in clocks will be driven by some purpose - apps goal whatever its computing. The gravity will be the tendency towards the right answer. So, bro, here is your answer to THE BIG question - what the fuck is gravity. Its the universe convirging on the answer it is programmed to get. What it is, i dont know but i'll give it a thought, of course.<br>
 the universe is a fucking script. theres nothing to disprove it. fits like a glove so i'll call it a duck.<br>
 I feel i'm in a dreamland, so, ill go skating and dream while skating, of universes and the purpose of each.
+
+#Jan 27, 17
+So, i finally relent and let myself go take a skating break on the most sunny bright of a day after week long rain, on uc campus full of young beautiful faces lost in thought. I smoke a bowl with folks giving me smiles. Its full monty crowded zoo and me discovering new ditsy lines around curbs and yoga pants. Walked up to the tipsy top to the clock tower, all lit up in the setting sun like Alexandria Light House. I guess, that was the intent. They got it, with that san fran bay way down University av. 
+Joined a group of high schoolers on a tour and the pretty guide tells us 'The legend says when tower was built, they decided to clear a huge alley down to the sea so when ground cracks it just rolls off and never hurts anyone.' 
+I swear, at this point I yell out' 'I'm hopping for the same, jump on my board and accelerate into the sunset towards the bay. NO BULLSHIT. And, run straight into another group of like 100 kids blocking the path completely for 100', no room for speed checks. I just jedeyed it trying not to elbow the kids too much. Break out to the clear and carve fat happy turns to the bottom. Slide to a stop and have a nice conversation with a crazy kid telling me pirate stories from his Baja days.
+But, my point is it felt just like skiing tight trees some place in zero creek or the hwy gate run on the Jane. I felt right at home. Welcome back Dmitry. FUCK YEAH!!! All i need is to find some mushrooms for moon (Mars?) shots.
+
+#Jan 30, 17
+##so far today
+learned how to get universes started.
+been warned by a concerned citizen about my troubles if i keep taking his parking spot.
+learned why calligraphy and made it part of my coding syntax
+wired up another mexican restaurant in the hood as a trade partner
+all w/o leaving my van yet, but, a fat lonboarding expedition is coming and so is mexican dinner after, delivered to my van.
