@@ -177,3 +177,7 @@ Another point, the sudo english i create for each functionality is a language an
 
 ##I'm moving on above functional programming to descriptive programming
 where not the functions are the first class citizens but the descriptors. Then, functions are used to build what descriptors represent. E.g. index files in each folder export just one single object - a descriptor of the codeUnit they represent. That encapsulates api of each entity and only descriptors are allowed to travel between abstraction boundaries like the recepies to construct them. Functions that do are just details of implementation and not the top concern which is readability and clarity.
+
+#Feb 11, 17
+##Space/Time framework
+ Its been very hard. Perhaps, the hardest thing i'v ever done but i'm getting close to releasing my space/time framework. I'm 100% certain the huge investment was worth it. Its simply beautiful. The most elegant and mind clearing tool i'v ever made. I'm back to the surface after a very dark, deep and murky journey into the bowels of recursion. I had to face my confusion straight up, i had to go for it like at the top of a burly ride into a dark night. I see a clear way to everything I told you I want to do. And, i have people that want to collaborate already. We gonna rock. Be patient
