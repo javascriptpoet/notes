@@ -145,3 +145,12 @@ been warned by a concerned citizen about my troubles if i keep taking his parkin
 learned why calligraphy and made it part of my coding syntax
 wired up another mexican restaurant in the hood as a trade partner
 all w/o leaving my van yet, but, a fat lonboarding expedition is coming and so is mexican dinner after, delivered to my van.
+
+#Fb 11, 17
+##my wardrobe is def improving
+found another brand new marmot jacket abandoned for days in the middle of the street. I'm starting to eat like a king munching on falafels, mouth melting fudge muffins and tofu sushi. My hygiene is better as well with access to the campus gym at the top of a funky long boarding line. I like my life. 
+With the growing season coming, I'll have access to the whole organic farm next to the world class longboarding resort of el cerrito. For the time being, I'll be helping them with kick ass aquaponic system. Sooo much to do with sooo many friends to have. I'm blown away how many good vibes are all around me.
+I think its been three years since I stopped paying a dime for food. I feel healthiest I'v ever been, and happiest and freeest.
+
+##it was a really good day. 
+a bike collections mission with ebfnb was a big success. got to meet really cool people, got a ton of food i usually never see. Did not even realize how hungry i was for certain tastes. Got access to the omni building and all its inhabitants. There is always an event going on and a lot of food getting served. A building with no walls and everything is shared between all kinds of groups. Everything in it created and treasured and fought for by all involved. A really active hacker space where i can contribute with the skills i learned. Perhaps start teaching people what i know. I can sense a lot of interes
