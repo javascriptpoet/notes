@@ -1,4 +1,4 @@
- #i was asking that myself a lot of times. 
+#i was asking that myself a lot of times. 
  It does not seem to work for me. The syntax of react is geared towards html generation. yeah, one can use react 
  components to compose anything but that is just silly. its three lines of code to create react like syntax to 
  compose sweet mama from a caw (just ignore it). My tTypes are good example. i'll throw that package on github for you. 
