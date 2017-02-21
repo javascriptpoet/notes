@@ -35,7 +35,10 @@ Types are not given by the god or law giver of a bootstrap func. Types are compo
 We dont compose apps. We compose types of val flavor. This is what an app is - a sandboxed function scope. Happy app composing. When done, instantiate the type to generate a boilerplate of a type of app. Then, fill in a few blond (lone?) bombshell one liners and your app is done.
 
 ### WAIT ... what do we do with styles?
-Style is the beauty property of each spiceNode
+Style is the beauty property of each spiceNode. That means, its another scope like property and gets composed out of styles of all locals. Its not that mind blowing. We (some of us) normally do it in a separate sass file structure that parallels structure of ui components. All spiceTime proposing is to unify those two identical spaces - no parallel universes, gives me a headache. Then, just go ahead and compose them and import them and love them for the beauty they bring to the spiceTime.
+
+### Documentation?
+Yep, another scope property of spiceNode. Its very efficient and very intuative to make docs granular and fractal. I will not go against the flow of spice.
 
 ##Qm in a nutshell: I'm the nut and spiceTime is the shell.
 So, vals are free agents. we have no influence on them and they leave us alone till they ready to deliver their entire being for our purpose, when they are done. They kinda tick producing props at each tick like the rest of the mad house but they dont need our help at all. So, to us it looks like they got done instantly in the same tick we accessed(invoked) them. They produce a container full of props if they are clocked. E.g. a screen can be made into a val element. It will return react component func with reducers and permissions as static props of that func.
