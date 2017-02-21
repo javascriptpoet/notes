@@ -55,17 +55,17 @@ Remember two flavors of particles - leptons and barrions. Can you guess who is w
 Leptons are func elements. We bring them to existence,like any other element, from types - functions that create them but defined before hand, in the previous ticks (i know, duality and confusion again. Its an abstraction and it tries to organize objects with extremely subtle differences and has limits). We dont hold them for long but feed them prop fuel, get them all excited. They run around all pregnant, tick for a while (nothing is instant) and spit out result - another particle. Those props are just particles, funcs or vals. They eat them all, produce side effects and spit some other particles at the end. Side effects is the force they mediate, props are the energy it takes to produce that force. Result is leftover energy/information.
 
 ###What about the particle zoo. spiceTime sports just two kinds.
-Nope. It still fits like a glove. Those are classes of particles. Same as in spaceTime - leptons and barrions, funcs and vals. There are a few built in flavors but you are welcome to go nutz and build your own right where they needed most locally.The idea is to create a zoo of well known prisoners. those are who is doing the work of customizing your app and providing just the right syntax of your own choosing at the right time with the right spice. 
+Nope. It still fits like a glove. Those are classes of particles. Same as in spaceTime - leptons and barrions, funcs and vals. There are a few built in flavors but you are welcome to go nutz and build your own right where they needed most locally.The idea is to create a zoo of well known prisoners. those are who is doing the work of customizing your app and providing just the right syntax of your own choosing at the right time with the right spice. You are the law giver.
 
 This is all there is to 
 
-spiceTime
-the spice of rhyme
-with smell of thyme
+spiceTime<br>
+the spice of rhyme<br>
+with smell of thyme<br>
 
-and time its brother
-with space to bother
-to teach us self
+and time its brother<br>
+with space to bother<br>
+to teach us self<br>
 
 ####to know thyself
 
